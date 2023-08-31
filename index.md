@@ -4,12 +4,12 @@ title: Andrew's Blog
 ---
 
 
-## Build you Home Page here 
-Hi, My name is Andrew. I am a current junior at DNHS.
+## Andrew's Blog 
+Hi, My name is Andrew. I am currently a junior at DNHS.
 
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
+I go by he/him pronouns
 
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
+![image](https://github.com/andri-c/student1/assets/143442846/2bda2ba8-ea46-4a12-9a5f-826237db65f0)\
+
+## My Freeform Photos
+![img_0384](https://github.com/andri-c/student1/assets/143442846/5883184a-1e7b-4a20-8338-365c3d1b7407)
